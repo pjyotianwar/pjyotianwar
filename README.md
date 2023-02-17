@@ -3,8 +3,6 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=pjyotianwar&color=blueviolet)
 
 - ✌️ Native App Development, Web Development
-- 📫 Reach me: pjyotianwar@gmail.com
-- ⚡ Fun fact: I love travelling
 
 ## 👩🏻‍💻 Programming Languages 👩🏻‍💻
 | C++ | Kotlin | Java | JS | Python |
